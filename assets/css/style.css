@@ -28,17 +28,16 @@ h2{
 }
 .jumbotron {
     background-color: purple;
-}
-
-}
-
+    padding-bottom: 10px;
 }
 .container {
     width: 100%;
     max-width: 960px;
     margin: 0 auto;
     clear: both;
+    padding-bottom: 30px;
 }
+
 footer {
     padding: 30px 0;
     clear: both;
@@ -47,5 +46,5 @@ footer {
     text-align: center;
     background-color: darkblue;
     border-top: 8px solid #4aaaa5;
-    height: 50px;
+    height: 20px;
 }
