@@ -1,9 +1,9 @@
-#Psychic Game
+# Psychic-Game
 
-Game Objective:
+# Game Objective:
 guess the correct letter the computer is thinking of to win.
 
-Game instructions:
+# Game instructions:
 
 1. Type any letter you would like to begin the game.
 2. You will have 10 tries to guess correctly
