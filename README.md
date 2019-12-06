@@ -11,3 +11,6 @@ guess the correct letter the computer is thinking of to win.
 4. If the computer wins your losses will be marked in the losses section.
 
 Not sure what you have already guessed look at the What you've guessed section. 
+
+## Quick link:
+https://nicole103.github.io/Psychic-Game/
